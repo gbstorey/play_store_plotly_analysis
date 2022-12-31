@@ -8,7 +8,7 @@ In this notebook, I will do a comprehensive analysis of the Android app market b
 
 ## Prerequisites
 
-None! Please visit my [Binder Docker Image] (https://mybinder.org/v2/gh/gbstorey/play_store_plotly_analysis/HEAD?labpath=notebooks%2FGoogle%20Play%20Store%20App%20Analytics%20(start).ipynb) to interact with the notebook.
+None! Please visit my [Binder Docker Image](https://mybinder.org/v2/gh/gbstorey/play_store_plotly_analysis/HEAD?labpath=notebooks%2FGoogle%20Play%20Store%20App%20Analytics%20(start).ipynb) to interact with the notebook.
 
 ## Data Source:
 
